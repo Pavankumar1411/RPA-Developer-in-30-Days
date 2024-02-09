@@ -19,6 +19,18 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "ADDITION.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "C&Sequence_1",
+        "B&Sequence_1",
+        "A&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

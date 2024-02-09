@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "bucket",
+      "metadata": {
+        "name": {
+          "defaultValue": "Project-W3",
+          "isExpression": false,
+          "displayName": "Storage Bucket Name"
+        }
+      }
+    },
+    {
+      "resource": "queue",
+      "metadata": {
+        "folderPath": {
+          "defaultValue": "pavankumark1411@gmail.com's workspace",
+          "isExpression": false,
+          "displayName": "Folder Path"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Length&Sequence_1",
+        "dt_Notmatch&Sequence_1",
+        "dt_Reference&Sequence_1",
+        "dt_Monthly&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Linqselect.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Count&Sequence_1",
+        "Arr_string&Sequence_1",
+        "dt_input&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LinqGroupby using cloumn value.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Group&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LinqGroupby Multiple.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Groupby&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LinqGroupby Sum.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Sum&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Linq Update.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Output&Sequence_1",
+        "dt_monthly&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Join Condition.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_output&Sequence_1",
+        "dt_Id&Sequence_1",
+        "dt_student&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sort DataTable in Order.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_descending&Sequence_1",
+        "dt_result&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Collection.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listB&Sequence_1",
+        "listA&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

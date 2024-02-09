@@ -23,6 +23,9 @@
         "TransactionID&StateMachine_1",
         "dt_TransactionData&StateMachine_1",
         "ConsecutiveSystemExceptions&StateMachine_1",
+        "str_RcText&Sequence_17",
+        "jobj_Results&Sequence_17",
+        "jarray_Results&Sequence_17",
         "ShouldStop&Sequence_25"
       ],
       "ArgumentsSectionElementsOrder": [
@@ -85,8 +88,11 @@
     {
       "Path": "Framework/Process.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "Path&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [
+        "In_transactiondata",
         "in_TransactionItem",
         "in_Config"
       ],
@@ -148,6 +154,76 @@
         "in_SystemException",
         "in_QueueRetry"
       ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "db_con&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Out_dt_InputTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Ms_email.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Outlook.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Datatable.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_read&Sequence_1",
+        "dt_txt&Sequence_2",
+        "dt_Chunk&Sequence_2",
+        "intCounter&Sequence_1",
+        "intIterations&Sequence_1",
+        "limit&Sequence_1",
+        "dt_Input&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Email Automation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "LinqBasicWhere.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_read&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }

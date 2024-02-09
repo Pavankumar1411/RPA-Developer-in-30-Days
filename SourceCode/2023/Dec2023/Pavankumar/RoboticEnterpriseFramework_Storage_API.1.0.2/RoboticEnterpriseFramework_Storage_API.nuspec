@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>RoboticEnterpriseFramework_Storage_API</id>
+    <version>1.0.2</version>
+    <title>RoboticEnterpriseFramework_Storage_API</title>
+    <authors>91955</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Robotic Enterprise Framework</description>
+    <tags>VisualBasic VB UiPathStudioProcess</tags>
+    <repository type="GIT" url="https://github.com/Pavankumar1411/RPA-Developer-in-30-Days/blob/main/SourceCode\2023\Dec2023\Pavankumar\RoboticEnterpriseFramework_Storage\project.json" branch="main" commit="974cfecda5aa182a96d7a5a1bcfaab9b41634bfd" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="UiPath.Database.Activities" version="[1.7.1]" />
+        <dependency id="UiPath.Excel.Activities" version="[2.22.3]" />
+        <dependency id="UiPath.System.Activities.Runtime" version="[23.10.3]" />
+        <dependency id="UiPath.Testing.Activities" version="[23.10.0]" />
+        <dependency id="UiPath.UIAutomation.Activities.Runtime" version="[23.10.7]" />
+        <dependency id="UiPath.WebAPI.Runtime" version="[1.18.0]" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
